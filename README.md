@@ -20,3 +20,4 @@
 ##### Some of the technologies I have worked with
 
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><img height="50" src="https://isocpp.org/assets/images/cpp_logo.png"></a></code>
