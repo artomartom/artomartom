@@ -15,9 +15,14 @@
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1tematematema@gmail.com)
-[![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg)]( )
-
+<!--  [![Discord]<img width="100" height="50" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg">]( ) -->
+ 
 ##### Some of the technologies I have worked with
 
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://git-scm.com//" target="_blank"><img height="50"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><img height="50" src="https://isocpp.org/assets/images/cpp_logo.png"></a></code>
+<!-- <code><img height="50" src="http://www.cmake.org/opensourcelogos/cmake100.png"></a></code> -->
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/600px-Cmake.svg.png"></a></code>
+
+
+ 
