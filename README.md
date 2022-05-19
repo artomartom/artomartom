@@ -15,6 +15,7 @@
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1tematematema@gmail.com)
+[![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg)]( )
 
 ##### Some of the technologies I have worked with
 
