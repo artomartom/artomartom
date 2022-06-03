@@ -11,7 +11,6 @@
  
 # About
 
-- :speech_balloon: Ask me about C++, algorithms or literally anything!
 - :mailbox: You can reach me with the links below
    
 <br />
